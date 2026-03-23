@@ -1,0 +1,2 @@
+- [ ] add a skill to convert colors
+- [ ] add the hacky skill from acorn/
