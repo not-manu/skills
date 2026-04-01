@@ -1,2 +1,3 @@
 - [ ] add a skill to convert colors
 - [ ] add the hacky skill from acorn/
+- [ ] add the skill to get pixelarticons
