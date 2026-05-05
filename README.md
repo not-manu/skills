@@ -7,7 +7,7 @@ feel free to steal these (mit license)
 ### how 2 steal
 
 ```sh
-skills add -g not-manu/skills/<skill-name>
+npx skills add -g not-manu/skills/<skill-name>
 ```
 
-e.g. `skills add -g not-manu/skills/flexoki`
+e.g. `npx skills add -g not-manu/skills/flexoki`
