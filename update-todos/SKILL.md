@@ -13,8 +13,7 @@ Keep `TODO.md` tidy after work is finished. Minimal, mechanical.
 2. Identify which open `- [ ]` items the recent conversation actually completed. If it's ambiguous, ask the user which ones to move — don't guess.
 3. For each completed item:
    - Remove it from its current location in the open list.
-   - Append it to the `**done**` section as `- [x] <text>`.
-   - If the fix had a non-obvious root cause or resolution worth remembering, add a short trailing note on the same item (1-3 lines, indented). Skip the note when the title already says everything.
+   - Append it to the `**done**` section as `- [x] <text>`. No notes, no explanations, no trailing prose — the title alone. The user can read the git log for the why.
 4. Preserve the rest of the file verbatim — section headers, blank lines, ordering of untouched items, indentation style.
 
 ## Notes
