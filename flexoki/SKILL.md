@@ -62,3 +62,7 @@ In the **dark theme**, use the 400-level accents as primary and 600-level as sec
 ## When you need the extended palette
 
 For UI work requiring more granularity (hover states, borders, subtle backgrounds), read the full `references/palette.md` file. Each accent family has 13 shades from very light (50) to very dark (950), following the same pattern as Tailwind's color scale.
+
+## Full repo available locally
+
+A full clone of the upstream Flexoki repo (kepano/flexoki) lives at `~/Documents/Projects/not-manu/Forks/flexoki`. If this skill's reference files don't cover what you need, look through the repo — it contains ready-made ports and themes for many tools and formats (CSS, editors, terminals, etc.), design rationale, and the canonical palette definitions. Prefer adapting an existing port from there over hand-rolling one.
